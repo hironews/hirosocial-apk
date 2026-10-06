@@ -1,0 +1,11 @@
+{
+  "appId": "ir.hirosocial.app",
+  "appName": "HiroSocial",
+  "webDir": "www",
+  "server": {
+    "url": "https://hub.hirosocial.ir",
+    "cleartext": false,
+    "androidScheme": "https",
+    "allowNavigation": ["hub.hirosocial.ir", "*.hirosocial.ir"]
+  }
+}
